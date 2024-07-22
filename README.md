@@ -5,7 +5,7 @@ jukebox
 > When you press on the "Rolling Stones" button it triggers a Rolling Stones song (or playlist) on the Spotify app on my laptop.
 > The song then plays on my home speaker system.
 
-
+![F7AZXH1LXKF148O](https://github.com/user-attachments/assets/dc1ac10e-8365-429a-ad41-883b5a14e90e)
 
 Based on "A Spotify Jukebox for Your Wall (No-Code)" at https://www.instructables.com/A-Spotify-Jukebox-for-Your-Wall-No-Code/
 
